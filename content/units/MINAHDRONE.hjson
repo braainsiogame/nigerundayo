@@ -8,7 +8,7 @@ health: 1000
 engineOffset: 5.5
 range: 999
 weapon: {
-  name: lancerLaser
+  name: BasicBulletType
   length: 1.5
   reload: 10
   alternate: true
