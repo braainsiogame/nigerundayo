@@ -1,12 +1,10 @@
 {
 type: MinerDrone
-name: nigga
+name: yes i am
 description: Generally annoying and flashy.
 speed: 1000
 flying: true
 health: 1000
 engineOffset: 5.5
 range: 160
-weapon: {
-  }
 }
