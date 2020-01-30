@@ -1,0 +1,15 @@
+type: MinerDrone
+name: nigga
+description: Generally annoying and flashy.
+speed: 1000
+flying: true
+health: 1000
+engineOffset: 5.5
+range: 160
+weapon: {
+  name: chrome-blaster
+  length: 10
+  reload: 999
+  alternate: true
+  bullet: homing
+}
