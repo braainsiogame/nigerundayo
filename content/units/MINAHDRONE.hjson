@@ -7,7 +7,7 @@ flying: true
 health: 1000
 engineOffset: 5.5
 range: 99
-toMine: ["lead", "copper", "titanium", "thorium", "iron", "aluminum"]
+toMine: ["lead", "copper", "titanium", "thorium"]
 weapon: {
   name: BasicBulletType
   length: 1
