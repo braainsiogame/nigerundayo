@@ -7,5 +7,5 @@ flying: true
 health: 1000
 engineOffset: 5.5
 range: 999
-weapon: bullet
+weapon: bullet: lancerLaser
 }
