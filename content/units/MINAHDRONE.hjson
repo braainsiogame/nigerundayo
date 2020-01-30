@@ -1,3 +1,4 @@
+{
 type: MinerDrone
 name: nigga
 description: Generally annoying and flashy.
@@ -6,3 +7,4 @@ flying: true
 health: 1000
 engineOffset: 5.5
 range: 160
+}
