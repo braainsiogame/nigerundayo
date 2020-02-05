@@ -13,6 +13,6 @@ weapon: {
   length: 1
   reload: 1
   alternate: true
-  bullet: meltdownLaser
+  bullet: arc
   }
 }
