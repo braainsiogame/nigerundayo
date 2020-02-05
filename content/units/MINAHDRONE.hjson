@@ -3,11 +3,11 @@ type: MinerDrone
 name: "MINAHDRONE"
 description: Generally annoying and flashy.
 speed: 99
-flying: true
+flying: false
 health: 1000
 engineOffset: 5.5
 range: 99
-toMine: ["lead", "copper", "titanium", "thorium"]
+toMine: ["lead", "copper", "titanium", "coal"]
 weapon: {
   name: BasicBulletType
   length: 1
