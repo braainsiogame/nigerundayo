@@ -2,7 +2,7 @@
 type: MinerDrone
 name: "MINAHDRONE"
 description: Generally annoying and flashy.
-speed: 10
+speed: 1
 flying: false
 health: 1000
 engineOffset: 5.5
@@ -13,6 +13,6 @@ weapon: {
   length: 1
   reload: 1
   alternate: true
-  bullet: lancerLaser
+  bullet: meltdownLaser
   }
 }
