@@ -3,9 +3,9 @@ description: Makes Chrome Wraith units.
 type: UnitFactory
 unitType: MINAHDRONE
 size: 2
-produceTime: 350
+produceTime: 0
 consumes: {
-  power: 0.1
+  power:
   items: {
     items: [
     ]
@@ -14,5 +14,5 @@ consumes: {
 category: units
 research: wraith-factory
 requirements: [
-  copper/70
+  copper/1
 ]
