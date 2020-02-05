@@ -5,7 +5,7 @@ unitType: MINAHDRONE
 size: 2
 produceTime: 0
 consumes: {
-  power:
+  power: 0
   items: {
     items: [
     ]
