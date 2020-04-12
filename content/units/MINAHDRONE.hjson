@@ -3,7 +3,7 @@ type: MinerDrone
 name: "MINAHDRONE"
 description: Generally annoying and flashy.
 speed: 1
-flying: false
+flying: true
 health: 1000
 engineOffset: 5.5
 range: 99
